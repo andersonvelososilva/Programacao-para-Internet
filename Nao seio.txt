@@ -1,0 +1,2 @@
+Não sei, professor. Até usei um template html, mas decidi ser honesto e enviar esse texto, já que você quer saber o nível.
+Não é difícil. Mas meu nível atual é iniciante. Não temos tanto costume de usar o VS Code. Programamos mais no Colab do Google.
